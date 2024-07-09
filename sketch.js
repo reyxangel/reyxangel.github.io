@@ -1,16 +1,22 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  frameRate(24);
+  frameRate(30);
 }
 function draw() {
   p = "prueba";
   let palabras = [
-    "por favor",
-    "no me olvides",
-    "¿acaso me extrañas?",
-    "</3",
-    "te quiero",
-    "mucho",
+    "hola",
+    "mi nombre es Rey Ángeles",
+    "soy artistx",
+    "audiovisual",
+    "trans-media",
+    "diseñadorx",
+    "DJ",
+    "VJ",
+    "asistentx",
+    "soñadorx",
+    "freelance",
+    "y mucho más",
     "<3",
   ];
   console.log("tqm");
