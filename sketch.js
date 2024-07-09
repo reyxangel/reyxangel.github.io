@@ -19,11 +19,11 @@ function draw() {
     "y mucho más",
     "<3",
   ];
-  console.log("tqm");
+  console.log("hola");
   background(0, 0, 0, 5);
   fill(random(250));
-  stroke(250, 5, 150);
-  strokeWeight(77);
-  textSize(33);
+  stroke(20, 111, 220);
+  strokeWeight(30);
+  textSize(30);
   text(random(palabras), random(width), random(height));
 }
